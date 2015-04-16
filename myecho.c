@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Dieses Programm gibt alle uebergebenen Parameter (ohne Name des Programms) aus
+// Dieses Programm gibt alle uebergebenen Parameter (ohne Name des Programms) aus
 
 int main(int argc, char* argv[], char* envp[]) 
 {
